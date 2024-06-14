@@ -50,7 +50,7 @@ Link
 We will set up the environment using [Anaconda](https://docs.anaconda.com/anaconda/install/index.html). Clone the
 current repo
 
-    git clone https://github.com/gcorso/DiffDock.git
+    git clone https://github.com/RuneROe/SIMalign.git
 
 To set up an appropriate environment, navigate to the root of the repository and run the following commands:
 
